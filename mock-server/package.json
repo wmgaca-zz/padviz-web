@@ -1,0 +1,16 @@
+{
+  "name": "mock-server",
+  "subdomain": "wmgaca.mock-server",
+  "scripts": {
+    "start": "node mock-server.js"
+  },
+  "version": "0.0.1-3",
+  "engines": {
+    "node": "0.8.x"
+  },
+  "dependencies": {
+    "socket.io": "*",
+    "fs": "*",
+    "http": "*"
+  }
+}
